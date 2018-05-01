@@ -1,0 +1,73 @@
+<link type="text/css" rel="stylesheet" href="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/css/style.css" />
+<div id="title">JCIDS Tracker - Portfolio Summary</div>
+<table class="portfolio">
+  <tr class="header">
+    <td class="top-left"></td>
+    <td class="icons">
+      <img class="icd" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/ICD.png">
+      <img class="mdd" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/MDD.png">
+    </td>
+    <td class="cat a1">ACAT I</td>
+    <td class="cat a2">ACAT II</td>
+    <td class="cat a3">ACAT III</td>
+    <td class="cat a4">ACAT IV</td>
+    <td class="cat si">Special Interest</td>
+  </tr>
+  <tr class="msa">
+    <td class="life-cycle">Material Solutions Analysis</td>
+    <td>
+      <img class="aoa" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/AOA.png">
+      <img class="d-cdd" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/DRAFT_CDD.png">
+      <img class="a" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/A.png">
+    </td>
+    <td class="a1"></td>
+    <td class="a2"></td>
+    <td class="a3"></td>
+    <td class="a4"></td>
+    <td class="si"></td>
+  </tr>
+  <tr class="tmrr">
+    <td class="life-cycle">Technology Maturation & Risk Reduction</td>
+    <td>
+      <img class="cdd" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/CDD.png">
+      <img class="d-rfp" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/DEV_RFP.png">
+      <img class="b" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/B.png">
+    </td>
+    <td class="a1"></td>
+    <td class="a2"></td>
+    <td class="a3"></td>
+    <td class="a4"></td>
+    <td class="si"></td>
+  </tr>
+  <tr class="emd">
+    <td class="life-cycle">Engineering & Manufacturing Development</td>
+    <td>
+      <img class="cpd" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/CPD.png">
+      <img class="c" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/images/build/C.png">
+    </td>
+    <td class="a1"></td>
+    <td class="a2"></td>
+    <td class="a3"></td>
+    <td class="a4"></td>
+    <td class="si"></td>
+  </tr>
+  <tr class="pd">
+    <td class="life-cycle">Production & Deployment</td>
+    <td></td>
+    <td class="a1"></td>
+    <td class="a2"></td>
+    <td class="a3"></td>
+    <td class="a4"></td>
+    <td class="si"></td>
+  </tr>
+  <tr class="os">
+    <td class="life-cycle">Operations & Support</td>
+    <td></td>
+    <td class="a1"></td>
+    <td class="a2"></td>
+    <td class="a3"></td>
+    <td class="a4"></td>
+    <td class="si"></td>
+  </tr>
+</table>
+<script type="text/javascript" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/portfolio/js/build/production.min.js"></script>

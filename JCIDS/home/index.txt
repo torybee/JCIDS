@@ -1,0 +1,18 @@
+<link type="text/css" rel="stylesheet" href="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/home/css/style.css" />
+<div id="title">JCIDS Tracker - Home</div>
+<div id="description"><strong>Description: </strong>Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</div>
+<div class="row-container">
+  <div class="row-1">
+    <div>Views</div>
+    <div>Admin</div>
+  </div>
+  <div class="row-2">
+    <div class="jcids-button"><a href="https://portal.secnav.navy.mil/orgs/OPNAV/N9/N95/SitePages/JCIDS%20-%20Calendar.aspx">Calendar</a></div>
+    <div class="jcids-button"><a href="https://portal.secnav.navy.mil/orgs/OPNAV/N9/N95/Lists/JCIDS/AllItems.aspx">Events</a></div>
+  </div>
+  <div class="row-3">
+    <div class="jcids-button"><a href="https://portal.secnav.navy.mil/orgs/OPNAV/N9/N95/SitePages/JCIDS%20-%20Portfolio%20Summary.aspx">Portfolio Summary</a></div>
+    <div class="jcids-button"><a href="https://portal.secnav.navy.mil/orgs/OPNAV/N9/N95/Lists/Programs/AllItems.aspx">Programs</a></div>
+  </div>
+</div><!-- 
+<script type="text/javascript" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/home/js/build/production.min.js"></script> -->

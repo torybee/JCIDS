@@ -1,0 +1,12 @@
+<link type="text/css" rel="stylesheet" href="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/calendar/css/style.css" />
+<div id="title">JCIDS Tracker - Calendar</div>
+<div id="key">
+  Event Types<br>
+  <div class="event-type">Milestone<div class="key milestone">&#9651;</div></div>
+    <div class="event-type">Milestone (Complete)<div class="key milestone">&#9650;</div></div>
+  <div class="event-type">Decision<div class="key decision">&#9671;</div></div>
+    <div class="event-type">Decision (Complete)<div class="key decision">&#9670;</div></div>
+</div>
+<div id="body"></div>
+<div style="display:none;" id="tooltip"></div>
+<script type="text/javascript" src="/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/calendar/js/build/production.min.js"></script>

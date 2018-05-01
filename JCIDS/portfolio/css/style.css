@@ -1,0 +1,158 @@
+@font-face {
+  font-family: Roboto;
+  src: url(/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/font/Roboto-Regular.ttf);
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(/orgs/OPNAV/N9/N95/SiteAssets/JCIDS/font/Roboto-Bold.ttf);
+  font-weight: bold;
+}
+
+#title {
+  font-family: "Roboto";
+  color: rgba(68,68,68, 1);
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 15px;
+  margin-top: -50px;
+  font-weight: bold;
+}
+
+table.portfolio {
+  width: 1000px;
+  margin-left:auto;
+  margin-right: auto;
+  font-size: 1.3em;
+  color: black;
+}
+
+table.portfolio, table.portfolio tr, table.portfolio td {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+
+.header {
+  height: 100px;  
+  background-color: rgb(166,166,166);
+}
+
+.top-left {
+  background-color: rgb(166,166,166);
+}
+
+.icons {
+  width: 100px;
+  background-color: rgb(255,255,153);
+}
+
+.header .icons {
+  background-color: rgb(166,166,166);
+}
+
+.cat {
+  min-width: 100px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.life-cycle {
+  width: 175px;
+  height: 150px;
+  padding: 7px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.a1, .a2, .a3, .a4, .si {
+  text-align: center;
+}
+/*
+.cat.a1 {
+  background-color: rgb(255,255,153);
+}
+
+.cat.a2 {
+  background-color: rgb(102,204,255);
+}
+
+.cat.a3 {
+  background-color: rgb(255,204,153);
+}
+
+.cat.a4 {
+  background-color: rgb(204,255,102);
+}
+
+.cat.si {
+  background-color: rgb(221,221,221);
+}
+*/
+
+.msa {
+  background-color: rgb(255,255,153);
+}
+
+.tmrr {
+  background-color: rgb(102,204,255);
+}
+
+.emd {
+  background-color: rgb(255,204,153);
+}
+
+.pd {
+  background-color: rgb(204,255,102);
+}
+
+.os {
+  background-color: rgb(221,221,221);
+}
+
+.icd, .mdd, .aoa, .d-cdd, .a, .cdd, .d-rfp, .b, .cpd, .c {
+  position: absolute;
+  width: 50px;
+  margin-left: 22px;
+}
+
+.icd {
+  margin-top: -30px;
+}
+
+.mdd {
+  margin-top: 24px;
+}
+
+.aoa {
+  margin-top: -55px;
+}
+
+.d-cdd {
+  width: 55px;
+  margin-left: 20px;
+  margin-top: 6px;
+}
+
+.a {
+  margin-top: 55px;
+}
+
+.cdd {
+  margin-top: -55px;
+}
+
+.d-rfp {
+  margin-top: 0px;
+}
+
+.b {
+  margin-top: 55px;
+}
+
+.cpd {
+  margin-top: -25px;
+}
+
+.c {
+  margin-top: 55px;
+}

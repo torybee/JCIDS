@@ -1,0 +1,9 @@
+{
+  "name": "jcids-home",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-obfuscator": "^3.0.0",
+    "grunt-contrib-uglify": "^3.0.1"
+  }
+}
